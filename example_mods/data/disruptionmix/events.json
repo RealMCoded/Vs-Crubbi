@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "disruption",
+		"player1": "bf",
+		"player2": "crubbi new",
+		"player3": null,
+		"events": [
+			[
+				4.54545454545454,
+				[
+					[
+						"LinearSpin",
+						"250",
+						"100000"
+					]
+				]
+			],
+			[
+				27.2727272727273,
+				[
+					[
+						"Disruption Notes",
+						"250",
+						"10000"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "disruptionmix"
+	}
+}

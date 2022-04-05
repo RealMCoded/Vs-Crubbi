@@ -84,7 +84,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-9
+				101
 			],
 			"fps": 24,
 			"anim": "danceLeft",
@@ -112,7 +112,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-9
+				101
 			],
 			"fps": 24,
 			"anim": "danceRight",
@@ -190,7 +190,7 @@
 	"no_antialiasing": false,
 	"image": "characters/GF_assets",
 	"position": [
-		0,
+		-20,
 		0
 	],
 	"healthicon": "gf",

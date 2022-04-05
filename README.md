@@ -1,5 +1,5 @@
 ## Insane Spirals exclusive notes
-Hey! This is a modified version of Psych Engine that i made for the [Dave & Bambi: Insane Spirals]() mod. 
+Hey! This is a modified version of Psych Engine that i made for the [Dave & Bambi: Insane Spirals](https://gamebanana.com/mods/369331) mod. 
 
 - Custom menu layout like Golden Apple
 - Randomized backgrounds
