@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crubbitalk.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="facts tho0000" x="0" y="0" width="1944" height="1616" frameX="-10" frameY="-51" frameWidth="1986" frameHeight="1714"/>
+	<SubTexture name="facts tho0001" x="1944" y="0" width="1962" height="1714" frameX="-6" frameY="0" frameWidth="1986" frameHeight="1714"/>
+	<SubTexture name="facts tho0002" x="0" y="1714" width="1986" height="1640" frameX="0" frameY="-33" frameWidth="1986" frameHeight="1714"/>
+</TextureAtlas>

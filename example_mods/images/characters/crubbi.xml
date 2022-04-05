@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crubbi.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="crubbi down0000" x="0" y="0" width="1599" height="1306" frameX="-141" frameY="-196" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0001" x="1599" y="0" width="1891" height="1466" frameX="0" frameY="-93" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0002" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0003" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0004" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0005" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0006" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0007" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0008" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0009" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0010" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi down0011" x="3490" y="0" width="1826" height="1592" frameX="-30" frameY="0" frameWidth="1891" frameHeight="1592"/>
+	<SubTexture name="crubbi idle0000" x="5316" y="0" width="1392" height="1054" frameX="-64" frameY="-26" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0001" x="5316" y="0" width="1392" height="1054" frameX="-64" frameY="-26" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0002" x="5316" y="0" width="1392" height="1054" frameX="-64" frameY="-26" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0003" x="6708" y="0" width="1400" height="1131" frameX="-69" frameY="-10" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0004" x="0" y="1592" width="1447" height="1088" frameX="-52" frameY="-41" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0005" x="0" y="1592" width="1447" height="1088" frameX="-52" frameY="-41" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0006" x="1447" y="1592" width="1487" height="1124" frameX="-29" frameY="-18" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0007" x="2934" y="1592" width="1543" height="1153" frameX="-1" frameY="-5" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0008" x="4477" y="1592" width="1547" height="1131" frameX="0" frameY="-36" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi idle0009" x="6024" y="1592" width="1540" height="1189" frameX="-6" frameY="0" frameWidth="1547" frameHeight="1189"/>
+	<SubTexture name="crubbi left0000" x="0" y="2781" width="1324" height="1115" frameX="-172" frameY="-80" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0001" x="1324" y="2781" width="1377" height="1268" frameX="-137" frameY="-51" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0002" x="2701" y="2781" width="1530" height="1367" frameX="-54" frameY="0" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0003" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0004" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0005" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0006" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0007" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0008" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0009" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0010" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi left0011" x="4231" y="2781" width="1637" height="1337" frameX="0" frameY="-28" frameWidth="1637" frameHeight="1367"/>
+	<SubTexture name="crubbi right0000" x="5868" y="2781" width="1454" height="1138" frameX="-188" frameY="-50" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0001" x="0" y="4148" width="1805" height="1275" frameX="0" frameY="-12" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0002" x="1805" y="4148" width="1561" height="1291" frameX="-119" frameY="0" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0003" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0004" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0005" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0006" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0007" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0008" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0009" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0010" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi right0011" x="3366" y="4148" width="1650" height="1252" frameX="-68" frameY="-28" frameWidth="1805" frameHeight="1291"/>
+	<SubTexture name="crubbi up0000" x="5016" y="4148" width="1330" height="1051" frameX="-65" frameY="-43" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0001" x="6346" y="4148" width="1393" height="1070" frameX="-45" frameY="-24" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0002" x="0" y="5439" width="1469" height="1168"/>
+	<SubTexture name="crubbi up0003" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0004" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0005" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0006" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0007" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0008" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0009" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0010" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+	<SubTexture name="crubbi up0011" x="1469" y="5439" width="1445" height="1124" frameX="-13" frameY="-21" frameWidth="1469" frameHeight="1168"/>
+</TextureAtlas>

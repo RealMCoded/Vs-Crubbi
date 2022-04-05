@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "HAHHAHAHAHAHHAHAHAHAHAHHAHAHAHAAHAHHAHAHAHAHAHAH\\nHAHAHAHAHHAHAHAHAHAHAHAHHAHAHAHAHHAHAHAHAH\\nHAHAHAHAHHAHAHHAHAHHAHHAHAHAHAHHAHAHAHAHAHAHAHHA\\nHAHAHAHAHAHHHAHAHAHHAHAHAHAHAHHAHAHAHAHAHAHHAHA\\nHAHAHAHAHAHAHAHAHAHAHHAHAHAHAAHAHAHHAHAHAHAHAHAHHA",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "crubbitalk"
+		},
+		{
+			"expression": "shocked",
+			"text": "BEEP?!?!?!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "HAHA UR GIRLFRIEND IS GONE!!!!!!!!!!!!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "crubbitalk"
+		},
+		{
+			"expression": "shocked",
+			"text": " ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "YOU RAP? WE RAP NOW!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "crubbitalk"
+		}
+	]
+}

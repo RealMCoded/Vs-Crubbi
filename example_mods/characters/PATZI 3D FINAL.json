@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "patzi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "patzi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "patzi up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "patzi left"
+		},
+		{
+			"offsets": [
+				10,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "patzi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PATZI 3D FINAL",
+	"position": [
+		-910,
+		-540
+	],
+	"healthicon": "gaming",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		22,
+		206
+	],
+	"camera_position": [
+		240,
+		530
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

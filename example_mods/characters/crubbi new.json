@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				631,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Crubbi Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-420
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Crubbi Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				127
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Crubbi Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Crubbi Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				494,
+				300
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Crubbi Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/CrubbiNew",
+	"position": [
+		-580,
+		-120
+	],
+	"healthicon": "CrubbiIcon",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		60,
+		86
+	],
+	"camera_position": [
+		-550,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

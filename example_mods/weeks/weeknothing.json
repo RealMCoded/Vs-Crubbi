@@ -1,0 +1,175 @@
+{
+	"storyName": "a guy cancelled by eating a big chungus. what a life!",
+	"difficulties": "Normal, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"disruption",
+			"bambi-pissyboy",
+			[
+				0,
+				255,
+				75
+			]
+		],
+		[
+			"no modchart disruption",
+			"bambi-pissyboy",
+			[
+				0,
+				255,
+				75
+			]
+		],
+		[
+			"algebra",
+			"old-dave",
+			[
+				0,
+				220,
+				255
+			]
+		],
+		[
+			"wireframe",
+			"wireframe-dave",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"disability",
+			"disability-dave",
+			[
+				206,
+				215,
+				255
+			]
+		],
+		[
+			"left unchecked",
+			"wireframe-dave",
+			[
+				255,
+				0,
+				113
+			]
+		],
+		[
+			"keyboard",
+			"bendu",
+			[
+				255,
+				220,
+				73
+			]
+		],
+		[
+			"strawberry",
+			"bambom",
+			[
+				255,
+				0,
+				113
+			]
+		],
+		[
+			"sugar rush",
+			"bandu",
+			[
+				0,
+				255,
+				53
+			]
+		],
+		[
+			"wheels",
+			"dave-but-awesome",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"gummy bear",
+			"bandu",
+			[
+				146,
+				255,
+				73
+			]
+		],
+		[
+			"rage for a sec",
+			"bambi",
+			[
+				175,
+				255,
+				153
+			]
+		],
+		[
+			"recovered project",
+			"recovered-project",
+			[
+				215,
+				215,
+				213
+			]
+		],
+		[
+			"confronting yourself",
+			"expung",
+			[
+				195,
+				0,
+				33
+			]
+		],
+		[
+			"sart producer",
+			"sart-producer",
+			[
+				146,
+				73,
+				255
+			]
+		],
+		[
+			"metallic",
+			"ringi",
+			[
+				135,
+				135,
+				135
+			]
+		],
+		[
+			"dave x bambi shipping cute",
+			"dave",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week7"
+}

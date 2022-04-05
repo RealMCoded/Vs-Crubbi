@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "disruption",
+		"player1": "bf",
+		"player2": "crubbi new",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"LinearSpin",
+						"37.3",
+						"3600"
+					]
+				]
+			],
+			[
+				37312.5,
+				[
+					[
+						"Screen Shake",
+						"2.7, 0.05",
+						""
+					]
+				]
+			],
+			[
+				37394.53125,
+				[
+					[
+						"LinearSpin",
+						"21.42",
+						"72000"
+					]
+				]
+			],
+			[
+				42656.25,
+				[
+					[
+						"Screen Shake",
+						"2.8, 0.05",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Screen Shake",
+						"2.7, 0.05",
+						""
+					]
+				]
+			],
+			[
+				53343.75,
+				[
+					[
+						"Screen Shake",
+						"2.5, 0.05",
+						""
+					]
+				]
+			],
+			[
+				58687.5,
+				[
+					[
+						"LinearSpin",
+						"5.29",
+						"720"
+					]
+				]
+			],
+			[
+				64125,
+				[
+					[
+						"LinearSpin",
+						"200",
+						"5000"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Crubbi"
+	}
+}

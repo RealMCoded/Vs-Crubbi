@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_play.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="play basic0000" x="0" y="0" width="355" height="139" frameX="0" frameY="-1" frameWidth="355" frameHeight="140"/>
+	<SubTexture name="play basic0001" x="356" y="0" width="355" height="140" frameX="0" frameY="-1" frameWidth="355" frameHeight="140"/>
+	<SubTexture name="play white0000" x="354" y="141" width="395" height="192" frameX="0" frameY="-1" frameWidth="401" frameHeight="193"/>
+	<SubTexture name="play white0001" x="0" y="334" width="401" height="189" frameX="0" frameY="0" frameWidth="401" frameHeight="193"/>
+</TextureAtlas>

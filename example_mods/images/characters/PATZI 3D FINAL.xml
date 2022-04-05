@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="patzi3d3d3d.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="patzi down0000" x="0" y="0" width="1696" height="1577" frameX="0" frameY="0" frameWidth="1696" frameHeight="1617"/>
+	<SubTexture name="patzi down0001" x="1696" y="0" width="1696" height="1461" frameX="0" frameY="-138" frameWidth="1696" frameHeight="1617"/>
+	<SubTexture name="patzi down0002" x="3392" y="0" width="1696" height="1577" frameX="0" frameY="-40" frameWidth="1696" frameHeight="1617"/>
+	<SubTexture name="patzi down0003" x="3392" y="0" width="1696" height="1577" frameX="0" frameY="-40" frameWidth="1696" frameHeight="1617"/>
+	<SubTexture name="patzi down0004" x="3392" y="0" width="1696" height="1577" frameX="0" frameY="-40" frameWidth="1696" frameHeight="1617"/>
+	<SubTexture name="patzi down0005" x="3392" y="0" width="1696" height="1577" frameX="0" frameY="-40" frameWidth="1696" frameHeight="1617"/>
+	<SubTexture name="patzi down0006" x="3392" y="0" width="1696" height="1577" frameX="0" frameY="-40" frameWidth="1696" frameHeight="1617"/>
+	<SubTexture name="patzi idle0000" x="5088" y="0" width="1947" height="1577" frameX="0" frameY="0" frameWidth="1947" frameHeight="1641"/>
+	<SubTexture name="patzi idle0001" x="5088" y="0" width="1947" height="1577" frameX="0" frameY="0" frameWidth="1947" frameHeight="1641"/>
+	<SubTexture name="patzi idle0002" x="5088" y="0" width="1947" height="1577" frameX="0" frameY="0" frameWidth="1947" frameHeight="1641"/>
+	<SubTexture name="patzi idle0003" x="5088" y="0" width="1947" height="1577" frameX="0" frameY="0" frameWidth="1947" frameHeight="1641"/>
+	<SubTexture name="patzi idle0004" x="0" y="1577" width="1696" height="1577" frameX="-25" frameY="-64" frameWidth="1947" frameHeight="1641"/>
+	<SubTexture name="patzi idle0005" x="1696" y="1577" width="1696" height="1577" frameX="-31" frameY="-64" frameWidth="1947" frameHeight="1641"/>
+	<SubTexture name="patzi idle0006" x="3392" y="1577" width="1947" height="1461" frameX="0" frameY="-107" frameWidth="1947" frameHeight="1641"/>
+	<SubTexture name="patzi left0000" x="5339" y="1577" width="1696" height="1577" frameX="0" frameY="0" frameWidth="1696" frameHeight="1580"/>
+	<SubTexture name="patzi left0001" x="0" y="3154" width="1696" height="1455" frameX="0" frameY="-104" frameWidth="1696" frameHeight="1580"/>
+	<SubTexture name="patzi left0002" x="1696" y="3154" width="1696" height="1577" frameX="0" frameY="-3" frameWidth="1696" frameHeight="1580"/>
+	<SubTexture name="patzi left0003" x="1696" y="3154" width="1696" height="1577" frameX="0" frameY="-3" frameWidth="1696" frameHeight="1580"/>
+	<SubTexture name="patzi left0004" x="1696" y="3154" width="1696" height="1577" frameX="0" frameY="-3" frameWidth="1696" frameHeight="1580"/>
+	<SubTexture name="patzi left0005" x="1696" y="3154" width="1696" height="1577" frameX="0" frameY="-3" frameWidth="1696" frameHeight="1580"/>
+	<SubTexture name="patzi left0006" x="1696" y="3154" width="1696" height="1577" frameX="0" frameY="-3" frameWidth="1696" frameHeight="1580"/>
+	<SubTexture name="patzi right0000" x="3392" y="3154" width="1696" height="1577" frameX="0" frameY="0" frameWidth="1696" frameHeight="1583"/>
+	<SubTexture name="patzi right0001" x="5088" y="3154" width="1696" height="1449" frameX="0" frameY="-119" frameWidth="1696" frameHeight="1583"/>
+	<SubTexture name="patzi right0002" x="0" y="4731" width="1696" height="1577" frameX="0" frameY="-6" frameWidth="1696" frameHeight="1583"/>
+	<SubTexture name="patzi right0003" x="0" y="4731" width="1696" height="1577" frameX="0" frameY="-6" frameWidth="1696" frameHeight="1583"/>
+	<SubTexture name="patzi right0004" x="0" y="4731" width="1696" height="1577" frameX="0" frameY="-6" frameWidth="1696" frameHeight="1583"/>
+	<SubTexture name="patzi right0005" x="0" y="4731" width="1696" height="1577" frameX="0" frameY="-6" frameWidth="1696" frameHeight="1583"/>
+	<SubTexture name="patzi right0006" x="0" y="4731" width="1696" height="1577" frameX="0" frameY="-6" frameWidth="1696" frameHeight="1583"/>
+	<SubTexture name="patzi up0000" x="1696" y="4731" width="1696" height="1577"/>
+	<SubTexture name="patzi up0001" x="3392" y="4731" width="1696" height="1474" frameX="0" frameY="-95" frameWidth="1696" frameHeight="1577"/>
+	<SubTexture name="patzi up0002" x="5088" y="4731" width="1696" height="1577"/>
+	<SubTexture name="patzi up0003" x="5088" y="4731" width="1696" height="1577"/>
+	<SubTexture name="patzi up0004" x="5088" y="4731" width="1696" height="1577"/>
+	<SubTexture name="patzi up0005" x="5088" y="4731" width="1696" height="1577"/>
+	<SubTexture name="patzi up0006" x="5088" y="4731" width="1696" height="1577"/>
+</TextureAtlas>

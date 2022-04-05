@@ -1,0 +1,31 @@
+{
+	"storyName": "THE CYCLES AND TURNS!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "limo",
+	"weekBefore": "bandu",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Crubbi",
+			"crubbiicon",
+			[
+				155,
+				15,
+				75
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Vs Crubbi"
+}
